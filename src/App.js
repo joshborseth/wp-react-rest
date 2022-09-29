@@ -23,7 +23,7 @@ function App() {
   };
 
   return (
-    <Router basename="/wp-react">
+    <Router basename="/">
       <header id="masthead" className="site-header">
         <div className="site-branding">
           <p className="site-title">WordPress REST API</p>
